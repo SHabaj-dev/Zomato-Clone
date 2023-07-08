@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Zomato</string>
+    <string name="_100_green_deliveries">100% Green Deliveries</string>
+    <string name="in_india">in India</string>
+    <string name="india_s_food_delivery_n_and_dinning_app">India\'s #1 Food Delivery\n and Dinning App</string>
 </resources>

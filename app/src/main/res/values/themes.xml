@@ -6,4 +6,12 @@
     </style>
 
     <style name="Theme.Zomato" parent="Base.Theme.Zomato" />
+
+    <style name="ThemeSplashScreen" parent="Base.Theme.Zomato">
+        <item name="android:statusBarColor">@color/zomato_red</item>
+    </style>
+
+    <style name="ThemeLogin" parent="Base.Theme.Zomato">
+        <item name="android:statusBarColor">@color/transparent</item>
+    </style>
 </resources>

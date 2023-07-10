@@ -30,6 +30,10 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
+    buildFeatures{
+        dataBinding=true
+    }
 }
 
 dependencies {
@@ -44,5 +48,8 @@ dependencies {
 
     //Country Code picker
     implementation 'com.hbb20:ccp:2.5.0'
+
+    //pinView
+    implementation 'io.github.chaosleung:pinview:1.4.4'
 
 }

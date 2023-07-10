@@ -5,4 +5,13 @@
     <string name="india_s_food_delivery_n_and_dinning_app">India\'s #1 Food Delivery\n and Dinning App</string>
     <string name="log_in_or_sign_up">Log in or Sign up</string>
     <string name="phone_number">Phone Number</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="t_and_c">By continuing, you agree to our Terms of Service,Privacy Policy,Content Policy</string>
+    <string name="sent_verif_code">we have sent a verification code to</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="dummy_number">+91-1234567890</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp_in">Resend OTP in:</string>
+    <string name="_0_00">0:00</string>
+    <string name="re_send">Re-Send</string>
 </resources>

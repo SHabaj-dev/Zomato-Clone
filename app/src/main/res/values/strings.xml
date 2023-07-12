@@ -30,4 +30,7 @@
     <string name="whats">Whats on your mind</string>
     <string name="food_type">Food Type</string>
     <string name="title">Title</string>
+    <string name="_0_00_min">0:00 min</string>
+    <string name="_50_off_up_to_100">50% off up to 100</string>
+    <string name="_250">250</string>
 </resources>

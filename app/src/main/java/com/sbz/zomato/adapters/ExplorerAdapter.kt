@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.sbz.zomato.R
 import com.sbz.zomato.models.ExplorerModel
+import java.util.Random
 
 class ExplorerAdapter(private val context: Context, private val explorerList: List<ExplorerModel>) :
     RecyclerView.Adapter<ExplorerAdapter.ViewHolder>() {
@@ -35,8 +36,22 @@ class ExplorerAdapter(private val context: Context, private val explorerList: Li
 
         holder.tvExplorerTitle.text = currentItem.title
         holder.tvExplorerItemType.text = currentItem.type
+        holder.tvExplorerItemType.setTextColor(generateRandomColor())
         Glide.with(context)
             .load(currentItem.imageUrl)
             .into(holder.ivExploreItemImage)
+    }
+
+    private fun generateRandomColor(): Int {
+        val random = Random()
+        val randomColor = random.nextInt(4)
+        val colorId = when (randomColor) {
+            0 -> R.color.light_blue
+            1 -> R.color.light_green
+            2 -> R.color.light_purple
+            else -> R.color.light_yello
+
+        }
+        return context.resources.getColor(colorId, context.theme)
     }
 }

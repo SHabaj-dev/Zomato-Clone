@@ -4,5 +4,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="zomato_red">#E13742</color>
     <color name="transparent">#00E13742</color>
+    <color name="light_blue">#6A76CF</color>
+    <color name="light_green">#95FF7F</color>
+    <color name="light_purple">#C087DF</color>
+    <color name="light_yello">#FBEE79</color>
     <color name="gray">#636574</color>
+    <color name="blue">#2196F3</color>
 </resources>

@@ -6,6 +6,6 @@ import retrofit2.http.GET
 
 interface FoodApi {
 
-    @GET("data.json")
+    @GET("recommended.json")
     suspend fun getFoodItems(): Response<List<FoodModel>>
 }

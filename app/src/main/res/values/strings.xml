@@ -20,7 +20,7 @@
     <string name="dining">Dining</string>
     <string name="kj_somaiya_">KJ Somaiya College of Eng...</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Zomato</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
@@ -29,4 +29,5 @@
     <string name="explore">Explore</string>
     <string name="whats">Whats on your mind</string>
     <string name="food_type">Food Type</string>
+    <string name="title">Title</string>
 </resources>

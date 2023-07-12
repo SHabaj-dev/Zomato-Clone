@@ -14,4 +14,19 @@
     <string name="resend_otp_in">Resend OTP in:</string>
     <string name="_0_00">0:00</string>
     <string name="re_send">Re-Send</string>
+    <string name="title_goes_here">Title Goes Here</string>
+    <string name="delivery">Delivery</string>
+    <string name="money">Wallet</string>
+    <string name="dining">Dining</string>
+    <string name="kj_somaiya_">KJ Somaiya College of Eng...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="vidyanagar_">Vidyanagar, Vidya Vihar East,Ghatkopar E...\n</string>
+    <string name="recommended_txt">Recommended for you</string>
+    <string name="explore">Explore</string>
+    <string name="whats">Whats on your mind</string>
+    <string name="food_type">Food Type</string>
 </resources>

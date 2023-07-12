@@ -1,0 +1,54 @@
+{
+  "foodItems": [
+    {
+      "image": "https://img.freepik.com/free-photo/hawaiian-pizza_1203-2455.jpg?w=1380&t=st=1688993746~exp=1688994346~hmac=a4f3ebd81cc9237cf2bbb836827c385ea81d4e8b0293d576a1cf8761c4e7fcce",
+      "foodName": "Pizza",
+      "makingTime": "30 minutes"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/fresh-hamburger-with-salad-onion_144627-9522.jpg?w=1380&t=st=1688993803~exp=1688994403~hmac=9b230128095a4bd05dbd848e2ce8e0aaddc8bc226dfc61e701f860fe58b45cf6",
+      "foodName": "Burger",
+      "makingTime": "15 minutes"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?w=1380&t=st=1688993858~exp=1688994458~hmac=3bae14cf5257ad190f31abe0050ef90047af344db4839ea5a11bca1ea108e3e2",
+      "foodName": "Pasta",
+      "makingTime": "20 minutes"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/painting-sushi-plate-with-picture-fish-it_188544-12221.jpg?w=1380&t=st=1688993903~exp=1688994503~hmac=a81636b0bfb9c40366c88bf6d0dca8b5865d0ed0f2cab0a2943d213482e8a753",
+      "foodName": "Sushi",
+      "makingTime": "25 minutes"
+    },
+    {
+      "image": "https://img.freepik.com/premium-photo/biryani-is-mixed-rice-dish_891336-899.jpg?w=740",
+      "foodName": "Biryani",
+      "makingTime": "35 minutes"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/fresh-salad-with-chicken-tomatoes-mixed-greens-ai-generated-image_511042-1703.jpg?t=st=1688994006~exp=1688997606~hmac=dc1d56c087649ee5e88ce9109bfb52c7c2364c9d403d737830e69a6c3bbd8ae8&w=1380",
+      "foodName": "Salad",
+      "makingTime": "10 minutes"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/taco-with-beef-tacos-wooden-board_188544-16156.jpg?t=st=1688994033~exp=1688997633~hmac=7b4cfc73558559656f54ab75b812c6a2e308e294abb424d44ec45b377c85991e&w=1380",
+      "foodName": "Tacos",
+      "makingTime": "20 minutes"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/plate-food-with-bowl-beef-curry_1340-23175.jpg?t=st=1688994084~exp=1688997684~hmac=2efa7093d21d3a1ede4591f8a7d9f8ee1b4b81acb2be3a54c931328c55bacf8e&w=1380",
+      "foodName": "Chicken Curry",
+      "makingTime": "30 minutes"
+    },
+    {
+      "image": "https://www.seriouseats.com/thmb/lhYY8CqBJoDwxj57KFAiY9pORhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+      "foodName": "Palak Paneer",
+      "makingTime": "40 minutes"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/indulgent-chocolate-dessert-with-burning-candle-flame-generated-by-ai_188544-24305.jpg?t=st=1688994213~exp=1688997813~hmac=89c16ef320763501c6082cd5b5e3af348c80267a8c6c9af6bace7dda3b75c2c8&w=1380",
+      "foodName": "Cake",
+      "makingTime": "15 minutes"
+    }
+  ]
+}
